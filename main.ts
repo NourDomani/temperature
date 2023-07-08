@@ -18,8 +18,8 @@ input.onButtonPressed(Button.A, function () {
     }
 })
 input.onButtonPressed(Button.AB, function () {
-    basic.showArrow(ArrowNames.South)
+    basic.showArrow(ArrowNames.East)
 })
 input.onButtonPressed(Button.B, function () {
-    basic.showString("Hello!")
+    basic.showString("Micro.bit")
 })
